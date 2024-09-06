@@ -1,1 +1,5 @@
 # CS_3337_group_6
+
+![Static Badge](https://img.shields.io/badge/%20https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1Dr_1MZnL9rZPecDvHnS8ABgC-e1HvsKd?label=Design%20Doc&color=blue)
+doc: https://docs.google.com/document/d/1Dr_1MZnL9rZPecDvHnS8ABgC-e1HvsKd
+presentation: https://login.microsoftonline.com/ce8a2002-448f-4f58-82b1-d86f73e3afdd/oauth2/authorize?client%5Fid=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&response%5Fmode=form%5Fpost&response%5Ftype=code%20id%5Ftoken&resource=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&scope=openid&nonce=1EC5DCA4304031DC06BA7BD89C307C35A3D2779E4E888F77%2D5F5BCB53E4C0E6AB6C075BFC338022D4F657A631D6CABBF534AD2ED728D1F200&redirect%5Furi=https%3A%2F%2Fcsula%2Dmy%2Esharepoint%2Ecom%2F%5Fforms%2Fdefault%2Easpx&state=OD0w&login%5Fhint=jlittl12%40calstatela%2Eedu&claims=%7B%22id%5Ftoken%22%3A%7B%22xms%5Fcc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&client%2Drequest%2Did=1f754da1%2D00be%2D6000%2D66be%2D4ab5402842b3
